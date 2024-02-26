@@ -1,0 +1,27 @@
+{
+    "id": "7C030618",
+    "path": "~/AMAX/Rproject/Data Visualisation/initialisation_in_R.R",
+    "project_path": "initialisation_in_R.R",
+    "type": "r_source",
+    "hash": "2547483792",
+    "contents": "",
+    "dirty": false,
+    "created": 1708936916310.0,
+    "source_on_save": false,
+    "relative_order": 2,
+    "properties": {
+        "tempName": "Untitled1",
+        "source_window_id": "",
+        "Source": "Source",
+        "cursorPosition": "4,49",
+        "scrollLine": "0"
+    },
+    "folds": "",
+    "lastKnownWriteTime": 1708941593,
+    "encoding": "UTF-8",
+    "collab_server": "",
+    "source_window": "",
+    "last_content_update": 1708941593421,
+    "read_only": false,
+    "read_only_alternatives": []
+}
