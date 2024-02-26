@@ -21,3 +21,6 @@ my_data_frame$gendre=c("male", "male", "female")
 
 my_data_frame
 subset(my_data_frame, age>30 & gender =='male')
+
+#ploter les data's
+
