@@ -30,10 +30,3 @@ ggplot(data = mydata_age_group, aes(YEAR, NUMBER_CASES)) +
        y = "Number of cervical cancer cases", x = "") + 
   facet_wrap(~ AGE_GROUP) 
 
-ggplot(mtcars , aes(x = mpg,y= hp , color = factor(cyl))) + geom_point()
-
-ggplot(diamonds,aes(x= cut)) + geom_bar()  + facet_wrap("clarity")
-
-ggplot(diamonds , aes (x= carat , y= price , color = cut )) +geom_point() +  geom_smooth(method = "lm") + facet_wrap("clarity")
-
-ggplot(longley, aes (x=GNP, Unemployed  ))+geom_abline() + geom_smooth(method = "lm") 
